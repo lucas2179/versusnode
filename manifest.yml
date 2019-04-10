@@ -1,0 +1,4 @@
+applications:
+- name: versus
+  memory: 128M
+  buildpack: sdk-for-nodejs
